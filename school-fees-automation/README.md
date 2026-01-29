@@ -1,5 +1,17 @@
-# School Fees Automation
+# School Fees Automation System
 
-Skeleton project for automating school fee allocations and MPesa webhook parsing.
+Automates school fee reconciliation using M-Pesa PayBill.
 
-Structure created for development — replace placeholder Excel in `data/` with the real file.
+## Features
+- PayBill integration
+- Multi-student payment support
+- Balance-first allocation
+- Credit handling with rollover
+- Excel-based accounting
+- End-of-day reconciliation reports
+
+## Reference Format
+041,1043
+
+## Status
+In active development
